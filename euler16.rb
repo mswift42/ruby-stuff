@@ -11,4 +11,6 @@ def euler16
   $numberarray.map {|i| i.to_i}.inject(:+)
 end
 
+
+
   
